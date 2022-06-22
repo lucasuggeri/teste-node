@@ -2,9 +2,9 @@
   "name": "javascript-primeiro",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
-    "start:dev": "nodemon index.js"
+    "start:dev": "nodemon ./modules/index.js"
   },
   "author": "",
   "license": "ISC",
